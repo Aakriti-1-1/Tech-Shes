@@ -1,0 +1,76 @@
+<!DOCTYPE>
+<html>
+<title>waste bottle management</title>
+<head>
+<style>
+h1{
+color:navy blue;
+font-family:times new roman;
+font-size:50px;
+}
+h2{
+color:black;
+font-family:Arial,serif;
+font-size:16px;
+}
+h3{
+color:black;
+font-family:Arial,serif;
+font-size:16px;
+}
+h4{
+color:red;
+font-family:Arial,serif;
+font-size:24px;
+}
+body{
+background-image:url("bottles.jpg");
+}
+</style>
+</head>
+
+<body>
+<center><h1>BOTTLEHOUSE.COM</h1></center>
+<nav>
+      <center><ul>
+        <li><a href="#"># Home</a>
+            <a href="#"># Sell bottles</a>
+            <a href="#"># Buy bottles</a>
+            <a href="#"># Buy Eco-friendly Craft items</a></li>
+        <form>
+         <input type="search" name="q" placeholder="Search query">
+         <input type="submit" value="Go!">
+        </form>
+      </ul><center>
+
+</nav>
+<hr>
+<center><h2>As summer is coming, softdrinks and packed bottles will be the trend as well as necessity of all.</h2></center>
+<center><h3>We drink cola and throw away the bottle but have you ever wondered where will this bottle eventually go?</h3></center>
+<center><h4>To get rid of this pile of waste we are here to intoduce a new way of using them.</h4><center>
+<ol>
+<li>Collecting bottles from ragpickers</li>
+<center><iframe src="ragpicker.html"></iframe></center>
+<li>Craftsperson converting bottles to DIY</li>
+<center><iframe src="craftperson.html"></iframe></center>
+<li>Customers</li>
+<center><iframe src="customer.html"></iframe></center>
+<hr>
+<aside>
+<h2>Related</h2>
+
+        <ul>
+          <li><a href="#">Methods of Recycling</a></li>
+          <li><a href="#">Plastic grades</a></li>
+          <li><a href="#">Other eco-friendly practices</a></li>
+          <li><a href="#">Reduce your carbon footprint</a></li>
+          <li><a href="#">Our sponsers</a></li>
+        </ul>
+      </aside>
+
+</body>
+
+<footer>
+      <p>©Copyright 2022 by team Tech Shes.</p>
+    </footer>
+</html>
